@@ -1,0 +1,17 @@
+{
+    "name": "mberatsanli/composer-library-skeleton",
+    "description": "Libraray Skeleton for Composer",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "6.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Melih Berat ŞANLI",
+            "email": "mberatsanli@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
